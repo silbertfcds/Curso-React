@@ -12,6 +12,11 @@ Agora com o pacote do react instalado, só executar o comando?
 
 ### `create-react-app NOMEPROJETO`
 
+Instalando o pacote do axios para requisição ajax:
+
+### `yarn add axios`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
