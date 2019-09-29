@@ -1,3 +1,17 @@
+## Tecnologias
+
+- Node
+- Npm
+- Yarn
+
+Instalando o pacote do react:
+
+### `npm install -g create-react-app`
+
+Agora com o pacote do react instalado, só executar o comando?
+
+### `create-react-app NOMEPROJETO`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
