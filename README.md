@@ -16,6 +16,10 @@ Instalando o pacote do axios para requisição ajax:
 
 ### `yarn add axios`
 
+Instalando o pacote de criação de rotas:
+
+### `yarn add react-router-dom`
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
